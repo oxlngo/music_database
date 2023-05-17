@@ -1,7 +1,8 @@
 # music_database
 use postgresql and pgadmin4 to execute the code
+
 option 1: 
-restore by using the music_b.tar file
+restore by using the music_b file
 
 option2:
 run create.sql once to create all table
